@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Aug 21-21, 2023[D[D[D[D[D[D[D[2[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+- Class Date: August 21-22, 2023
 - Facilitator: @CalinL
 
 ## Class Resources
