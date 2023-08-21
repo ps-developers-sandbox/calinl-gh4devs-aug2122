@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Hello World from my branch!!
+Caption here Conflict here!
 
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
